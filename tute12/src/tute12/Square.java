@@ -10,5 +10,9 @@ public class Square extends Shape {
 	 }   
 	 public void move(int x, int y) { 
 	   
-	 } 
+	 }
+	 
+	 public void print() {
+		 
+	 }
 }
